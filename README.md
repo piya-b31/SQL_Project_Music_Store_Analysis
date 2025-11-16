@@ -1,6 +1,6 @@
 # SQL_Project_Music_Store_Analysis
 
-**Music Store SQL Analysis**
+****Music Store SQL Analysis****
 
 This project contains a collection of SQL queries written to analyze a digital music store database. The queries answer real business questions such as identifying top customers, best-selling artists, popular genres, and revenue by location.
 
