@@ -30,7 +30,9 @@ This project contains a collection of SQL queries written to analyze a digital m
 **How to Use**
 
 • Import/Connect to the music store database
+
 • Run the queries in any SQL client (PgAdmin, MySQL Workbench, DBeaver, VS Code extensions, etc.)
+
 • Explore insights and modify queries if needed
 
 **Contact**
