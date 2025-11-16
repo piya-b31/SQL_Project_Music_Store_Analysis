@@ -1,10 +1,10 @@
 # SQL_Project_Music_Store_Analysis
 
-*Music Store SQL Analysis*
+**Music Store SQL Analysis**
 
 This project contains a collection of SQL queries written to analyze a digital music store database. The queries answer real business questions such as identifying top customers, best-selling artists, popular genres, and revenue by location.
 
-Features / Questions Answered
+**Features / Questions Answered**
 
 Senior-most employee based on job title
 
@@ -26,19 +26,19 @@ Amount spent by each customer on the top-selling artist
 
 Most popular music genre per country
 
-🗂️ Files Included
+**Files Included**
 
 queries.sql – Contains all SQL queries with clear comments
 
 Uses tables like customer, invoice, invoice_line, artist, album, genre, track, employee
 
-🛠️ Technologies Used
+**Technologies Used**
 
 SQL (Window functions, CTEs, JOINs, GROUP BY, ORDER BY)
 
 Relational database (compatible with PostgreSQL / MySQL / SQLite depending on setup)
 
-🚀 How to Use
+**How to Use**
 
 Import/Connect to the music store database
 
@@ -46,6 +46,6 @@ Run the queries in any SQL client (PgAdmin, MySQL Workbench, DBeaver, VS Code ex
 
 Explore insights and modify queries if needed
 
-📧 Contact
+**Contact**
 
 If you want help or improvements, feel free to connect!
